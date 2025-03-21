@@ -135,4 +135,5 @@ All bugs, enhancements and issues are managed on [GitHub](https://github.com/wmo
 
 ## Contact
 
-* [Rory Burke](https://github.com/RoryPTB)
+* [David Berry](https://github.com/david-i-berry)
+* [Maaike Limper](https://github.com/maaikelimper)
